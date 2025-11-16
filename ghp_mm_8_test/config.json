@@ -2,7 +2,7 @@
   "name": "GHP MM Sniffer",
   "version": "1.0",
   "slug": "ghp_mm_8_test",
-  "description": "Sniffer for GHP MM heat pump",
+  "description": "Sniffer for GHP MM heat pump_test",
   "startup": "application",
   "boot": "auto",
   "init": false,
