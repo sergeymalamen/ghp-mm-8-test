@@ -15,4 +15,5 @@ bashio::log.info "Serial: ${SERIAL_PORT}"
 bashio::log.info "Broker: ${MQTT_BROKER}:${MQTT_PORT}"
 bashio::log.info "User: ${MQTT_USERNAME}"
 
-exec python3 /usr/src/app/ghp-mm2mqtt.py
+# Запуск твоего основного скрипта
+exec python3 /usr/src/app/ghp_mm_8_test.py
