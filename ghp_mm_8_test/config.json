@@ -20,5 +20,5 @@
     "mqtt_username": "str",
     "mqtt_password": "str"
   },
-  "image": "ghcr.io/home-assistant/{arch}-addon-ghp_mm_sniffer"
+  "image": "ghcr.io/home-assistant/{arch}-addon-ghp_mm_8_test"
 }
