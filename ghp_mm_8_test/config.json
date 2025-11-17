@@ -1,8 +1,8 @@
 {
-  "name": "GHP MM Sniffer",
+  "name": "GHP MM 8 Test",
   "version": "1.0",
   "slug": "ghp_mm_8_test",
-  "description": "Sniffer for GHP MM heat pump_test",
+  "description": "Test add-on for GHP MM 8",
   "startup": "application",
   "boot": "auto",
   "init": false,
